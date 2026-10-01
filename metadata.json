@@ -1,0 +1,8 @@
+{
+  "name": "Concert Lyrics Practice - The Weeknd Tour",
+  "description": "Interactive concert lyrics practice web app with CD player animations, synchronized lyric jumping, and track chapter navigation for The Weeknd After Hours Til Dawn Tour.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
